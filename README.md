@@ -30,3 +30,5 @@ This project implements a face recognition system using a combination of ResNet 
 
 **Performance Analysis**
 Both the ResNet-Decision Tree combination and the CNN achieved moderate accuracy levels. While the CNN outperformed the custom ResNet + Decision Tree, further optimization and hyperparameter tuning could improve results.
+
+## Dataset Link : https://www.kaggle.com/datasets/jessicali9530/lfw-dataset?select=peopleDevTest.csv
