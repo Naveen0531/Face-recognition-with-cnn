@@ -1,5 +1,3 @@
-# Face-recognition-with-cnn
-
 ## Face Recognition using ResNet and Decision Tree
 This project implements a face recognition system using a combination of ResNet for feature extraction and a Decision Tree for classification. Additionally, it explores the use of a Convolutional Neural Network (CNN) for comparison.
 
