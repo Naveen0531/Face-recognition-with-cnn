@@ -13,6 +13,7 @@ This project implements a face recognition system using a combination of ResNet 
    - Uses Gini impurity for determining the best splits.
 - CNN:
    - Implements a Keras-based convolutional neural network for direct classification.
+     
 **Results**
 - ResNet + Decision Tree:
 
