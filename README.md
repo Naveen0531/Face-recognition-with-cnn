@@ -6,8 +6,8 @@ This project implements a face recognition system using a combination of ResNet 
 **Features**
 - Dataset: Utilizes the Labeled Faces in the Wild (LFW) dataset.
 - ResNet:
--- Custom implementation with a series of basic residual blocks.
--- Extracts features from the dataset images.
+   - Custom implementation with a series of basic residual blocks.
+   -  Extracts features from the dataset images.
 - Decision Tree:
 -- Custom-built decision tree for classifying the extracted features.
 -- Uses Gini impurity for determining the best splits.
