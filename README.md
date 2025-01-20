@@ -9,19 +9,19 @@ This project implements a face recognition system using a combination of ResNet 
    - Custom implementation with a series of basic residual blocks.
    -  Extracts features from the dataset images.
 - Decision Tree:
--- Custom-built decision tree for classifying the extracted features.
--- Uses Gini impurity for determining the best splits.
+   - Custom-built decision tree for classifying the extracted features.
+   - Uses Gini impurity for determining the best splits.
 - CNN:
--- Implements a Keras-based convolutional neural network for direct classification.
+   - Implements a Keras-based convolutional neural network for direct classification.
 **Results**
 - ResNet + Decision Tree:
 
--- Accuracy: 39.15%
--- Classification report provided for detailed performance analysis.
+   - Accuracy: 39.15%
+   - Classification report provided for detailed performance analysis.
 - CNN:
 
--- Accuracy: 46.12%
--- Classification report highlights the strengths and weaknesses of the model.
+   - Accuracy: 46.12%
+   - Classification report highlights the strengths and weaknesses of the model.
 
 
 **Key Files**
